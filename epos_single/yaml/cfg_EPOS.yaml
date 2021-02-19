@@ -1,0 +1,16 @@
+EPOS0:
+  keyhandle: 0
+  NodeID: 0
+  DeviceName: EPOS4
+  Protocol: MAXON SERIAL V2
+  Interface: USB
+  PortName: USB0
+  Baudrate: 1000000
+EPOS1:
+  keyhandle: 1
+  NodeID: 1
+  DeviceName: EPOS4
+  Protocol: MAXON SERIAL V2
+  Interface: USB
+  PortName: USB1
+  Baudrate: 1000000

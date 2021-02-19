@@ -1,0 +1,10 @@
+/**: 
+  ros__parameters:
+    keyhandle         : 1
+    NodeID            : 1
+    DeviceName        : "EPOS4"
+    Protocol          : "MAXON SERIAL V2"
+    Interface         : "USB"
+    PortName          : "USB1"
+    Baudrate          : 1000000
+    SubscribeName     : "motor1"

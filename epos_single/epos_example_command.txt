@@ -1,0 +1,4 @@
+ros2 run epos_single epos_node __params:=src/epos_single/yaml/epos0.yaml
+ros2 run epos_single epos_node __params:=src/epos_single/yaml/epos1.yaml
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+ros2 run twist_2wheels_ros twist2wheels
