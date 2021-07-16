@@ -1,6 +1,8 @@
 # EPOSx_ROS2
 EPOSx Driver for ROS2.
 
+There are no plans to improve the operation of the software as it is not currently being developed.
+
 ### Install
 
 In "EPOSx_ROS2" directory...
